@@ -10,7 +10,6 @@
 🤔 I'm looking for feedback on my code or any projects I may commit, I would love if anyone can help me improve regardless of whatever it may be. Or even shoot me a message and we can talk!
 
 ⚡ Fun fact: Flamingos can fly up to 14,000 feet in the air with flights going as long as 300 miles at a time!
-## 🔗 Links
 
 
 <!--
