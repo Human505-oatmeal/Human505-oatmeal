@@ -9,9 +9,9 @@
 
 🤔 I'm looking for feedback on my code or any projects I may commit, I would love if anyone can help me improve regardless of whatever it may be. Or even shoot me a message and we can talk!
 
-📫 You can contact me via human505@protonmail.com
-
 ⚡ Fun fact: Flamingos can fly up to 14,000 feet in the air with flights going as long as 300 miles at a time!
+## 🔗 Links
+
 
 <!--
 **Human505-oatmeal/Human505-oatmeal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
