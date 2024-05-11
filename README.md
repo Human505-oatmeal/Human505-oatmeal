@@ -1,4 +1,4 @@
-### 👋 Hi there
+#### 👋 Hi there
 
 ## ⭐ About me
 🎓 I'm Hector, a 20-year-old aspiring self-taught Software Engineer (Specializing in Backend Development) currently working in a restaurant, studying 2+ hours everyday looking to build more quality projects and just be a little better everyday.
