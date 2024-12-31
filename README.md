@@ -1,7 +1,7 @@
 <h1 align="center">
   <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif">
 </h1>
-## ⭐ About me
+⭐ About me
 🎓 I'm Hector, a 20-year-old aspiring self-taught Software Engineer (Specializing in Backend Development) currently working in a restaurant, studying 2+ hours everyday looking to build more quality projects and just be a little better everyday.
 
 👨‍💻 I enjoy creating and building reliable software and I'm very enthusiastic about learning how new technologies work and how I can utilize them, currently I know **Flask**, **REST**, **Python**, **PostgreSQL**, **SQL**, **Git & Github**, experienced with **Linux**, **Unix**, and **Windows**. White hat hacker, reporting various vulnerabilities to smaller businesses from default credentials, subdomain admin panel exposure all the way to XSS and Race Conditions, preventing critical security holes from threat adversaries. I'm also very enthusiastic in talking or learning with/from like-minded people!
