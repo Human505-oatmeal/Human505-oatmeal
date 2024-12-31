@@ -10,7 +10,7 @@
 <p>
 <div align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="bash" style="height: 30px; width: auto;"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="bash" style="height: 25px; width: auto;"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" style="height: 30px; width: auto;" alt="javascript"/>
