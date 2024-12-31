@@ -1,6 +1,7 @@
 <h1 align="center">
   <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif">
 </h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+name's+Hector;I+love+code;I+love+learning;I+love+helping+others" alt="Typing SVG" /></a>
 ⭐ About me
 🎓 I'm Hector, a 20-year-old aspiring self-taught Software Engineer (Specializing in Backend Development) currently working in a restaurant, studying 2+ hours everyday looking to build more quality projects and just be a little better everyday.
 
