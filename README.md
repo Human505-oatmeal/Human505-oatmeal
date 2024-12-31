@@ -1,5 +1,6 @@
-# 👋 Hi there
-
+<h1 align="center">
+  <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif">
+</h1>
 ## ⭐ About me
 🎓 I'm Hector, a 20-year-old aspiring self-taught Software Engineer (Specializing in Backend Development) currently working in a restaurant, studying 2+ hours everyday looking to build more quality projects and just be a little better everyday.
 
