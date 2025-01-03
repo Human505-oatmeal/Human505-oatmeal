@@ -1,11 +1,13 @@
-<h1 align="center">
+<h1 align="center" style="margin: 0; padding: 0; border: none;">
   <img width="40%" src="https://media0.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47qjg85psbj19i4as0jyjettm8o58u5jnt90dh6rgr&rid=giphy.gif">
 </h1>
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+name's+Hector;I+love+code;I+love+learning;I+love+helping+others;&center=true&width=500" alt="Typing SVG" /></a>
-</p>
 
-<h2 align="center">🔧 Technology & Tools 🔧</h2>
+<p align="center" style="margin: 0; padding: 0; border: none; display: inline-block;">
+  <a href="https://git.io/typing-svg" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+name's+Hector.;I+love+code.;I+love+learning.;I+love+helping+others.;&center=true&width=500" alt="Typing SVG" style="border: none; display: block; margin: 0; padding: 0;" />
+  </a>
+</p>
+<h2 align="center"><i>🔧 Technology & Tools 🔧</i></h2>
 <p>
 <div align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -70,14 +72,14 @@
 
 <!-- Activity Graph -->
 
-<h2 align="center">📈 Activity Graph 📈</h2>
+<h2 align="center"><i>📈 Activity Graph 📈</i></h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Human505-oatmeal&theme=react-dark">
 
 
 <!-- Statistics -->
 
 
-<h2 align="center">📊 Statistics 📊</h2>
+<h2 align="center"><i>📊 Statistics 📊</i></h2>
 <br/>
 <p align="center">
   <a href="http://127.0.0.1/">
