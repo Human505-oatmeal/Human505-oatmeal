@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+name's+Hector.;I+love+code.;I+love+learning.;I+love+helping+others.;&center=true&width=500" alt="Typing SVG" style="border: none; display: block; margin: 0; padding: 0;" />
   </a>
 </p>
-<h2 align="center"><i>🔧 Technology & Tools 🔧</i></h2>
+<h2 align="center"><i><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhrdnFtanAzZXZmaXBkMXZxb2NhNXpub25oZjRhaDFsM2ZpaDJtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLKYTAkOY4YCEpwyBX/giphy.gif" width="30"> Technology & Tools <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhrdnFtanAzZXZmaXBkMXZxb2NhNXpub25oZjRhaDFsM2ZpaDJtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLKYTAkOY4YCEpwyBX/giphy.gif" width="30"></i></h2>
 <p>
 <div align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -26,6 +26,7 @@
 
 
 <!-- Databases & Cloud Technologies -->
+
 <p>
 <div align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -70,14 +71,13 @@
 
 <!-- Activity Graph -->
 
-<h2 align="center"><i>📈 Activity Graph 📈</i></h2>
+<h2 align="center"><i><img src="https://camo.githubusercontent.com/aff607cd63e0646140af35a7d29ef305c4db23e131aca7b4d06aea7c2c162b38/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4d494762744c5a6f566a626c3062596241642f67697068792e6769663f6369643d656366303565343732743268306938643764636a616f6175396971746368687238393968786d70787a7a6763376c7977267269643d67697068792e676966" width="30"> Activity Graph <img src="https://camo.githubusercontent.com/aff607cd63e0646140af35a7d29ef305c4db23e131aca7b4d06aea7c2c162b38/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f4d494762744c5a6f566a626c3062596241642f67697068792e6769663f6369643d656366303565343732743268306938643764636a616f6175396971746368687238393968786d70787a7a6763376c7977267269643d67697068792e676966" width="30"></i></h2>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Human505-oatmeal&theme=react-dark">
 
 
 <!-- Statistics -->
 
-
-<h2 align="center"><i>📊 Statistics 📊</i></h2>
+<h2 align="center"><i><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTk5ZW9ubTUyZHRvd3piNGZ6ZXU4NnRocWx6NHNhMnI1czk0a2cxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q8PQ1KuarrYucCMVTJ/giphy.gif" width="30"> Statistics <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTk5ZW9ubTUyZHRvd3piNGZ6ZXU4NnRocWx6NHNhMnI1czk0a2cxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q8PQ1KuarrYucCMVTJ/giphy.gif" width="30"></i></h2>
 <br/>
 <p align="center">
   <a href="http://127.0.0.1/">
