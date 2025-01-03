@@ -24,33 +24,6 @@
 </div>
 </p>
 
-<!-- Development Tools & Platforms -->
-
-<p>
-<div align="center">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" style="height: 27px; width: auto;" alt="docker"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" style="height: 27px; width: auto;" alt="git"/>
-  </a>
-  <a href="https://www.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white" style="height: 27px; width: auto;" alt="gitlab"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" style="height: 27px; width: auto;" alt="github"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" style="height: 27px; width: auto;" alt="nginx"/>
-  </a>
-  <a href="https://www.kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" style="height: 27px; width: auto;" alt="kubernetes"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" style="height: 27px; width: auto;" alt="linux"/>
-  </a>
-</div>
-</p>
 
 <!-- Databases & Cloud Technologies -->
 <p>
@@ -69,6 +42,31 @@
   </a>
 </p>
 </div>
+
+<!-- Development Tools & Platforms -->
+
+<p>
+<div align="center">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" style="height: 27px; width: auto;" alt="docker"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" style="height: 27px; width: auto;" alt="git"/>
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" style="height: 27px; width: auto;" alt="github"/>
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white" style="height: 27px; width: auto;" alt="nginx"/>
+  </a>
+  <a href="https://www.kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" style="height: 27px; width: auto;" alt="kubernetes"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" style="height: 27px; width: auto;" alt="linux"/>
+  </a>
+</div>
+</p>
 
 <!-- Activity Graph -->
 
