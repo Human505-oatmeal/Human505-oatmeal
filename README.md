@@ -5,8 +5,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+name's+Hector;I+love+code;I+love+learning;I+love+helping+others;&center=true&width=500" alt="Typing SVG" /></a>
 </p>
 
-
-## 🔧 Technology & Tools
+<h2 align="center">🔧 Technology & Tools 🔧</h2>
 <p>
 <div align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -68,3 +67,24 @@
   </a>
 </p>
 </div>
+
+<!-- Activity Graph -->
+
+<h2 align="center">📈 Activity Graph 📈</h2>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Human505-oatmeal&theme=react-dark">
+
+
+<!-- Statistics -->
+
+
+<h2 align="center">📊 Statistics 📊</h2>
+<br/>
+<p align="center">
+  <a href="http://127.0.0.1/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Human505-oatmeal&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
+    <img width="49.5%" height="220px" src="https://github-readme-streak-stats.herokuapp.com/?user=Human505-oatmeal&theme=gruvbox&hide_border=true">		  
+  </a>
+</p>
+<br>
+
+
