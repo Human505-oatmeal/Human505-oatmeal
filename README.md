@@ -83,8 +83,8 @@
 <br/>
 <p align="center">
   <a href="http://127.0.0.1/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Human505-oatmeal&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true">	  
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Human505-oatmeal&theme=gruvbox&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Human505-oatmeal&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true">	  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Human505-oatmeal&theme=tokyonight&hide_border=true">		  
   </a>
 </p>
 <br>
